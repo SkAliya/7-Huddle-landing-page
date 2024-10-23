@@ -1,0 +1,73 @@
+/* VARIABLES */
+:root {
+  /* COLORS */
+  --color-primary: hsl(257, 40%, 49%);
+  --color-secondary: hsl(300, 69%, 71%);
+}
+
+/* MEDIA-QUERIES */
+$bp-large: 68.75em; //110px
+$bp-medium: 50em; //800px
+$bp-small: 43.75em; //700px
+$bp-tablet: 37.5em; //600px
+$bp-smaller: 25em; //400px
+
+/* GENERAL SETTING */
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+  @media only screen and (max-width: $bp-large) {
+    font-size: 56.25%;
+  }
+  @media only screen and (max-width: $bp-medium) {
+    font-size: 48%;
+  }
+  @media only screen and (max-width: $bp-small) {
+    font-size: 40%;
+  }
+  @media only screen and (max-width: $bp-tablet) {
+    font-size: 37.5%;
+  }
+  @media only screen and (max-width: $bp-smaller) {
+    font-size: 30%;
+  }
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.6;
+  min-height: 100vh;
+  background: url(../images/bg-desktop.svg),
+    linear-gradient(to bottom, var(--color-primary), var(--color-primary));
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  color: #fff;
+  @media only screen and (max-width: $bp-large) {
+    background-position: top;
+  }
+  @media only screen and (max-width: $bp-tablet) {
+    background: url(../images/bg-mobile.svg),
+      linear-gradient(to bottom, var(--color-primary), var(--color-primary));
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+}
+
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: inherit;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(300, 69%, 71%);
+}
