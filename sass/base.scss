@@ -7,6 +7,7 @@
 
 /* MEDIA-QUERIES */
 $bp-large: 68.75em; //110px
+$bp-small-large: 56.25em; //900px
 $bp-medium: 50em; //800px
 $bp-small: 43.75em; //700px
 $bp-tablet: 37.5em; //600px
@@ -55,6 +56,9 @@ body {
     background-size: contain;
   }
 }
+// #CC6699
+///07ecf8
+/// ![](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 *,
 *::after,
