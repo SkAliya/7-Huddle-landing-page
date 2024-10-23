@@ -28,8 +28,8 @@ This is a solution to the [huddle-landing-page-with-a-single-introductory-sectio
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [order-summary-component solution | Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-tailwind-css-FN3tcexyJI)
-- Live Site URL: [https://nft-preview-card-component-hdez.vercel.app/](https://nft-preview-card-component-hdez.vercel.app/)
+- Solution URL: [Huddle-landing-page-solution| Frontend Mentor](https://www.frontendmentor.io/solutions/simple-huddle-landing-pagehtml5css3sass-LSlaaEg_-A)
+- Live Site URL: [https://skaliya.github.io/7-Huddle-landing-page/](https://skaliya.github.io/7-Huddle-landing-page/)
 
 <br>
 ## Table of contents
