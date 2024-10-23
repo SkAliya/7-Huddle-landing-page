@@ -10,7 +10,7 @@
 <div align="center">
   <!-- Profile -->
   <a href="https://www.frontendmentor.io/profile/SkAliya">
-    <img src="https://img.shields.io/badge/Profile-Aliya%20Shaik-07043B?style=for-the-badge&logo=frontendmentor" alt="Aliya Profile">
+    <img src="https://img.shields.io/badge/Profile-Aliya%20Shaik-07ecf8?style=for-the-badge&logo=frontendmentor" alt="Aliya Profile">
   </a>
   <!-- Status -->
     <a href="#">
@@ -72,7 +72,7 @@ Ordered
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-38B2AC?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/SASS-38B2AC?style=for-the-badge&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 - Semantic HTML5 markup
