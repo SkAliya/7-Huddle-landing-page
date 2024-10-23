@@ -10,7 +10,7 @@
 <div align="center">
   <!-- Profile -->
   <a href="https://www.frontendmentor.io/profile/SkAliya">
-    <img src="https://img.shields.io/badge/Profile-Aliya%20Shaik-07043B?style=for-the-badge&logo=frontendmentor" alt="Aliya Profile">
+    <img src="https://img.shields.io/badge/Profile-Aliya%20Shaik-07ecf8?style=for-the-badge&logo=frontendmentor" alt="Aliya Profile">
   </a>
   <!-- Status -->
     <a href="#">
@@ -28,8 +28,8 @@ This is a solution to the [huddle-landing-page-with-a-single-introductory-sectio
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [order-summary-component solution | Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-tailwind-css-FN3tcexyJI)
-- Live Site URL: [https://nft-preview-card-component-hdez.vercel.app/](https://nft-preview-card-component-hdez.vercel.app/)
+- Solution URL: [Huddle-landing-page-solution| Frontend Mentor](https://www.frontendmentor.io/solutions/simple-huddle-landing-pagehtml5css3sass-LSlaaEg_-A)
+- Live Site URL: [https://skaliya.github.io/7-Huddle-landing-page/](https://skaliya.github.io/7-Huddle-landing-page/)
 
 <br>
 ## Table of contents
@@ -72,7 +72,7 @@ Ordered
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-38B2AC?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/SASS-38B2AC?style=for-the-badge&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 - Semantic HTML5 markup
